@@ -42,11 +42,6 @@ npm start
 - Click on a task to **edit or delete** it.  
 - Use the **search bar** to filter tasks by title.  
 
-## 🎨 Screenshots  
-_Add screenshots or GIFs of your app here._  
-
-## 📝 License  
-This project is **MIT Licensed**. Feel free to use and modify it!  
 
 ---
 
