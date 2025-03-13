@@ -21,8 +21,7 @@ const saveState = (state) => {
 
 const initialState = loadState() || {
   tasks: {
-    'task-1': { id: 'task-1', title: 'Task 1', description: 'Description for Task 1', status: 'todo' },
-    'task-2': { id: 'task-2', title: 'Task 2', description: 'Description for Task 2', status: 'inProgress' },
+    'task-1': { id: 'task-1', title: 'Task Name', description: 'Description for Task', status: 'todo' },
   },
   columns: {
     todo: { id: 'todo', title: 'To Do', taskIds: ['task-1'] },
