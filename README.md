@@ -43,7 +43,7 @@ npm start
 - Use the **search bar** to filter tasks by title.  
 
 ## Demo Video
-[Watch the Demo](https://github.com/aditri1001/kanban-board/blob/main/your-video-file.mp4) 
+[Watch the Demo](https://github.com/aditri1001/kanban-board/kanban-board.mp4) 
 
 ---
 
