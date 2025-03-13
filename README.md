@@ -42,6 +42,8 @@ npm start
 - Click on a task to **edit or delete** it.  
 - Use the **search bar** to filter tasks by title.  
 
+## Demo Video
+[Watch the Demo](https://github.com/aditri1001/kanban-board/blob/main/your-video-file.mp4) 
 
 ---
 
