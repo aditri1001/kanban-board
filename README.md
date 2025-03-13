@@ -17,5 +17,37 @@ A **drag-and-drop** Kanban board built with **React, Redux, and react-beautiful-
 ## 📦 Installation  
 
 1️⃣ **Clone the repository:**  
-```sh
-git clone https://github.com/your-username/kanban-task-app.git
+```sh  
+git clone https://github.com/your-username/kanban-task-app.git  
+```
+
+2️⃣ **Navigate to the project directory:**  
+```sh  
+cd kanban-task-app  
+```
+
+3️⃣ **Install dependencies:**  
+```sh  
+npm install  
+```
+
+4️⃣ **Start the development server:**  
+```sh  
+npm start  
+```
+
+## 🛠 Usage  
+- Click **"Add Task"** to create a new task.  
+- **Drag and drop** tasks between columns.  
+- Click on a task to **edit or delete** it.  
+- Use the **search bar** to filter tasks by title.  
+
+## 🎨 Screenshots  
+_Add screenshots or GIFs of your app here._  
+
+## 📝 License  
+This project is **MIT Licensed**. Feel free to use and modify it!  
+
+---
+
+💡 **Contributions & Feedback are Welcome!** 🚀  
